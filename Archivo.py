@@ -4,6 +4,6 @@ b=2
 s=a+b
 print (s)
 
-#Operación S: Suma de dos variables
+#Operación R: Suma de dos variables
 r=a-b
 print (r)
