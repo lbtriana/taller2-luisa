@@ -4,6 +4,10 @@ b=2
 s=a+b
 print (s)
 
-#Operación R: Suma de dos variables
+#Operación R: Resta de dos variables
 r=a-b
 print (r)
+
+#Operación M: Multiplicación de dos variables
+m=a*b
+print (m)
