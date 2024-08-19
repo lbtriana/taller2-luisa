@@ -11,3 +11,7 @@ print (r)
 #Operación M: Multiplicación de dos variables
 m=a*b
 print (m)
+
+#Operación C: Divsión de dos variables
+p=m/s
+print(p)
